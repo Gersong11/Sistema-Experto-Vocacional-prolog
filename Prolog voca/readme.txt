@@ -2,7 +2,7 @@ Version usada para ejecutar el programa prolog v 7.2.3
 
 
 
-Para poder Ejecutar el Programa  tienes que reparar el sistema de ficheros:
+Para poder Ejecutar el Programa  tienes que Actualizar las rutas del sistema de ficheros:
 repara fichero en las siguientes lineas :
 1.80
 2.221
